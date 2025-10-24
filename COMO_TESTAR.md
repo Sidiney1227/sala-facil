@@ -135,7 +135,7 @@ No topo da tab "Reservas", toque em **"Sair"** para fazer logout.
 ### ✅ Teste 2: Fluxo Como ADMIN
 
 ```
-1. Login: admin@antonelly.com / admin123
+1. Login: admin / admin
 2. Veja as reservas existentes
 3. Cancele QUALQUER reserva (tem permissão ✅)
 4. Crie reserva com horário conflitante (deve falhar ❌)
